@@ -3,7 +3,7 @@ local colors = {
   fg_light = "#E5E9F0",
   bg = "#2E3440",
   gray = "#646A76",
-  light_gray = "#6C7A96",
+  light_gray = "#7986A0", -- was 6C7a96
   cyan = "#88C0D0",
   blue = "#81A1C1",
   dark_blue = "#5E81AC",
@@ -37,9 +37,9 @@ colors.diff_remove_bg = "#4D2B2E"
 colors.diff_text_bg = "#405D7E"
 
 colors.active = "#353B49"
-colors.float = "#3B4252"
+colors.float = "#4B5468" -- was 3B4252
 colors.highlight = "#3F4758"
 colors.highlight_dark = "#434C5E"
-colors.selection = "#4C566A"
+colors.selection = "#566176" -- was 4C566A
 
 return colors
